@@ -1,0 +1,1 @@
+; A=1101 , B = 0110. A+B = 10011 yes there's a carry
